@@ -6,7 +6,7 @@ if (!Number.isNaN(myNumber)) {
         
     } else if (myNumber > 0) {
         for (let i = 0; i < myNumber; i++) {
-            console.log(repeatCharacter('x', myNumber));
+            console.log(repeatCharacter('X', myNumber));
         }
     }
 } else {
